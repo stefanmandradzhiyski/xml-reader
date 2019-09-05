@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SNMIData>
+	<RecordSet source="edpexport.sh -P -B -c UTF-8 -l 0:1 -o LANG=en -O XML -o VARLANG=en" sourcetype="DataQuery">
+		<Record id="2020">
+			<Head>
+				<Field name="group" description="grouping" type="action">Grouping all elements</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="elementName" description="unique name of element" type="name presentation">Displaying element's name</Field>
+				<Field name="price" description="the price of element" type="price presentation">Printing the element's price</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="elementName" description="unique name of element" type="name presentation">Displaying element's name</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="group" description="grouping" type="action">Grouping all elements</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="elementName" description="unique name of element" type="name presentation">Displaying element's name</Field>
+				<Field name="price" description="the price of element" type="price presentation">Printing the element's price</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="elementName" description="unique name of element" type="name presentation">Displaying element's name</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="elementName" description="unique name of element" type="name presentation">Displaying element's name</Field>
+				<Field name="price" description="the price of element" type="price presentation">Printing the element's price</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="price" description="the price of element" type="price presentation">Printing the element's price</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="elementName" description="unique name of element" type="name presentation">Displaying element's name</Field>
+				<Field name="price" description="the price of element" type="price presentation">Printing the element's price</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="elementName" description="unique name of element" type="name presentation">Displaying element's name</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="elementName" description="unique name of element" type="name presentation">Displaying element's name</Field>
+				<Field name="price" description="the price of element" type="price presentation">Printing the element's price</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="show" description="showing" type="another action">Showing all elements for you</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="filter" description="filtering" type="filtering elements">Filtering all elements</Field>
+				<Field name="delete" description="deleting" type="another CRUD operation">Deleting a specfiic element</Field>
+				<Field name="price" description="the price of element" type="price presentation">Printing the element's price</Field>
+				<Field name="quantity" description="element's quantity" type="quantity presentation">Console show a quantity of element</Field>
+				<Field name="create" description="creating" type="CRUD operation">Let's create a new element for you</Field>
+				<Field name="barcode" description="barcode of element" type="barcode presentation">Let's show a element's barcode</Field>
+			</Head>
+		</Record>
+	</RecordSet>
+</SNMIData>
